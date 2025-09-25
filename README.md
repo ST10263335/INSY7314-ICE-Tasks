@@ -1,0 +1,1 @@
+Up to page 33, the Lab Guide establishes the foundation of the project by setting up the environment, installing dependencies, and creating the initial components, services, and models needed for the application to function. At this stage, the backend can be run by navigating into the Backend folder with cd Backend and starting the server using npx nodemon server.mjs
